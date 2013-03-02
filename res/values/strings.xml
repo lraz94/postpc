@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tipcalculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="billamount">Bill Amount</string>
+    <string name="roundlbl">Round to the nearest dollar</string>
+    <string name="calculatelbl">Calculate</string>
+    <string name="tipstart">Tip: $</string>
+
+</resources>
