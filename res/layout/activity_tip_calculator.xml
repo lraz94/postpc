@@ -58,7 +58,6 @@
         android:layout_alignLeft="@+id/btnCalculate"
         android:layout_below="@+id/btnCalculate"
         android:layout_marginTop="47dp"
-        android:text="@string/tipstart"
         android:textAppearance="?android:attr/textAppearanceMedium" />
     
 </RelativeLayout>
